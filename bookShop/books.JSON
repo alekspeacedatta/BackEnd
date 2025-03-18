@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Graph Monte Cristo",
+      "image": "/image/graphmontecristo.jpg",
+      "description": "A young sailor, unaware of the adventures that await him, will soon embark on a journey."
+    },
+    {
+      "id": 2,
+      "name": "Dorian Gray",
+      "image": "/image/doriangray.jpg",
+      "description": "The Picture of Dorian Gray explores vanity, morality, and corruption through a cursed portrait’s influence."
+    },
+    {
+      "id": 3,
+      "name": "The Iron Heel",
+      "image": "/image/ironheel.jpg",
+      "description": "The Iron Heel by Jack London depicts a dystopian future where an oppressive oligarchy crushes socialist resistance and freedom."
+    },
+    {
+      "id": 4,
+      "name": "Poirot sul Nilo",
+      "image": "/image/agataylistri.jpg",
+      "description": "Poirot sul Nilo (Death on the Nile) is an Agatha Christie mystery where Poirot investigates a deadly riverboat murder."
+    },
+    {
+      "id": 5,
+      "name": "Hobbit",
+      "image": "/image/hobbit.png",
+      "description": "A hobbit joins dwarves on a journey to reclaim their homeland, facing dragons, trolls, and danger."
+    },
+    {
+      "id": 6,
+      "name": "The Goth Father",
+      "image": "/image/thegothfather.webp",
+      "description": "\"Goth Father\" is a dark, humorous tale blending mafia intrigue with gothic, supernatural elements."
+    },
+    {
+      "id": 7,
+      "name": "Mockingbird",
+      "image": "/image/mockingbird.jpg",
+      "description": "\"Mockingbird\" explores grief, trauma, and healing through the perspective of a young autistic girl."
+    },
+    {
+      "id": 8,
+      "name": "River Sing Home",
+      "image": "/image/riversingmehome.jpg",
+      "description": "River Sing Home is a poetic exploration of loss, healing, and the connection to nature."
+    },
+    {
+      "id": 9,
+      "name": "Follow Me to Ground",
+      "image": "/image/followmetoground.jpg",
+      "description": "\"Follow Me to Ground\" is a dark, atmospheric novel about love, power, and mystery in a strange, supernatural town."
+    },
+    {
+      "id": 10,
+      "name": "The Great Gatsby",
+      "image": "/image/thegreatgatsby.jpg",
+      "description": "The Great Gatsby explores the American Dream, wealth, and the Jazz Age through the eyes of a mysterious millionaire."
+    },
+    {
+      "id": 11,
+      "name": "1984",
+      "image": "/image/1984.jpg",
+      "description": "1984 is a dystopian novel exploring surveillance, privacy, and totalitarianism in a future society."
+    },
+    {
+      "id": 12,
+      "name": "A Teaspoon of Earth and Sea",
+      "image": "/image/ateaspoonofearthandsea.jpg",
+      "description": "A Teaspoon of Earth and Sea is a novel about love, loss, and identity set in Iran during the 1980s."
+    }
+  ]
+  

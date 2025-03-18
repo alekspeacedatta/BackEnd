@@ -1,0 +1,42 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <%- include('blocks/header') -%>
+    
+    <div class="books-list">
+     <div class="books-list-head">
+         <h1>collection of best books live</h1>
+         <div class="slide-btns">
+             <button class="slide-btn1" id="prev">&#10094</button>
+             <button class="slide-btn1" id="next">&#10095</button>
+         </div>
+     </div>    
+    <div class="slider-container" id="container">
+        <div class="slider" id="slider">
+            <% books.forEach(book => { %>
+                <div class="slide book-box">
+                    <div class="book-text">
+                        <section>
+                            <h4><%= book.name %></h4>
+                            <p><%= book.description %></p>
+                        </section>
+                        <button class="click" onclick="window.location.href='/books/<%= book.name.replace(/\s+/g, ';') %>/<%= book.id %>';">
+                            Read Now
+                        </button>
+                    </div>
+                    <img src="<%= book.image %>" alt="">
+                </div>
+            <% }); %>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/slider.js"></script>
+    <script src="js/link.js"></script>
+</body>
+</html>
